@@ -1,0 +1,9 @@
+site_name: Quantum little guide
+site_description: Bitácora de aprendizaje sobre Quantum Computing y Error Correction
+site_author: Gabriela Marissa Mosquera Orellana
+
+theme:
+name: material
+
+nav:
+- Inicio: index.md
